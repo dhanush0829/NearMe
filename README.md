@@ -216,13 +216,17 @@ svpr.html
 </body>
 </html>
 ## OUTPUT
-![map png](https://github.com/user-attachments/assets/570924e0-4255-4ad0-bb81-ef3da1f3685b)
-![tour png](https://github.com/user-attachments/assets/e0f2ee1f-8181-4dd2-890b-69e75f10d811)
-![place png](https://github.com/user-attachments/assets/626eccab-5b6f-49b4-9687-bc6472344958)
-![krkn png](https://github.com/user-attachments/assets/f1e01748-6d28-4c9b-820e-fd8cb13b22d5)
-![attracts png](https://github.com/user-attachments/assets/ff33d87d-545a-4184-9f55-778fc34955dc)
-![dindugul png](https://github.com/user-attachments/assets/ce95365d-e2db-43e4-a51c-1736f6edcfdc)
+![map png](https://github.com/user-attachments/assets/a7731795-c763-4db7-9aa2-892d89574588)
 
+![attracts png] (https://github.com/user-attachments/assets/7bba4365-e9d8-447c-8243-0ecea6e2ec39)
+
+![dindugul png] (https://github.com/user-attachments/assets/49ab2a2e-6321-41ff-8268-dc440b1c3031)
+
+![krkn png] (https://github.com/user-attachments/assets/a01f0cb8-6a61-4dee-be97-f7f366fb2809)
+
+![place png] (https://github.com/user-attachments/assets/dd5aba41-66f4-46bb-9c71-06df02989b0e)
+
+![tour png] (https://github.com/user-attachments/assets/8d8373e7-0721-43ce-9e9b-e26b0d993e45)
 
 
 
